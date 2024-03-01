@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1709250387684,
+      "tag": "0000_wakeful_cable",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1709251631127,
+      "tag": "0001_lazy_fenris",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1709251718769,
+      "tag": "0002_petite_malcolm_colcord",
+      "breakpoints": true
+    }
+  ]
+}
